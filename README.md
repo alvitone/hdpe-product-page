@@ -9,4 +9,4 @@ Responsive product landing page built using vanilla HTML, CSS, and JavaScript.
 - Modal interactions
 
 ## Live Demo
-[https://username.github.io/hdpe-product-page](https://alvitone.github.io/hdpe-product-page/)
+[https://alvitone.github.io/hdpe-product-page/](https://alvitone.github.io/hdpe-product-page/)
